@@ -43,7 +43,7 @@ I would like to extend my gratitude to the following individuals and communities
 
 - **Jake Hamilton** - for creating and maintaing Snowfall, and just making everything tie together. [JakeHamilton](https://github.com/jakehamilton/config/tree/main)
 - **Khanelinux** - for his awesome configuration and documentation. [Khanelinux](https://github.com/khaneliman/khanelinix/tree/main) 
-- **IogaMaster** - For hes videos and Snowfall-Starter Config. [IogaMaster] (https://github.com/IogaMaster/snowfall-starter/tree/main)
+- **IogaMaster** - For hes videos and Snowfall-Starter Config. [IogaMaster](https://github.com/IogaMaster/snowfall-starter/tree/main)
 
 
 ## TODO
