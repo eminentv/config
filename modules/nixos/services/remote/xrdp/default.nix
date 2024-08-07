@@ -9,11 +9,11 @@ let
   inherit (lib) mkIf;
   inherit (lib.${namespace}) mkBoolOpt;
 
-  cfg = config.${namespace}).services.remote.xrdp;
+  cfg = config.${namespace}.services.remote.xrdp;
 in
 {
   options.${namespace}.services.remote.xrdp = {
-    enable = mkboolOpt false "Whether to Enable RDP";
+    enable = mkBoolOpt false "Whether to Enable RDP";
   };
   config = mkIf cfg.enable {
     services.xrdp = {
