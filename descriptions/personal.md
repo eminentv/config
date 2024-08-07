@@ -4,8 +4,8 @@ This contains
 # Rust Applications
 - [x] ripgrep
 - [ ] fd - Alternative to find
-- [ ] exa - Alternative to ls
-- [ ] bat - alternative to cat
+- [x] exa - Alternative to ls
+- [x] bat - alternative to cat
 - [ ] bottom - graphical process/system monitor 
 - [ ] bandwhich - CLI for displaying Network utilization
 - [ ] broot - System File tree
@@ -14,7 +14,7 @@ This contains
 - [ ] procs - alternative to ps
 - [ ] gping - alternative to ping
 - [ ] yq - Yaml Process (Wrapper for JQ)
-- [ ] zoxide - Alternative cd
+- [x] zoxide - Alternative cd
 - [ ] grex - Generate Regular Expression
 - [ ] zellij - Terminal workspace
 - [ ] skim - fuzzy finder
