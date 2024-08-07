@@ -7,9 +7,9 @@ This contains
 - [ ] exa - Alternative to ls
 - [ ] bat - alternative to cat
 - [ ] bottom - graphical process/system monitor 
-- [ ]bandwhich - CLI for displaying Network utilization
+- [ ] bandwhich - CLI for displaying Network utilization
 - [ ] broot - System File tree
-- [ ]dust - Alternative to du
+- [ ] dust - Alternative to du
 - [ ] du-dust - Visualize disk usage
 - [ ] procs - alternative to ps
 - [ ] gping - alternative to ping

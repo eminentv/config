@@ -1,18 +1,18 @@
 # Window Manager
-Hyprland
-Hyprlock
-Hypridle
+- [] Hyprland
+- [] Hyprlock
+- [] Hypridle
 
 # Browsers
-Qutebrowser
-Firefox
-Chrome
+- [] Qutebrowser
+- [] Firefox
+- [] Chrome
 
 # Home Infrastructure Connection 
-Incus
+- [] Incus
 
 # Note Taking 
-Obsidian
+- [] Obsidian
 
 # Code Editor
-VsCode
+- [] VsCode
