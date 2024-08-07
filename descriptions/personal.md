@@ -2,7 +2,7 @@
 This contains 
 
 # Rust Applications
-[ ] ripgrep
+[x] ripgrep
 [ ] fd - Alternative to find
 [ ] exa - Alternative to ls
 [ ] bat - alternative to cat
