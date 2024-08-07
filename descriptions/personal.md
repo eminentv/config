@@ -6,7 +6,7 @@ This contains
 - [ ] fd - Alternative to find
 - [x] exa - Alternative to ls
 - [x] bat - alternative to cat
-- [ ] bottom - graphical process/system monitor 
+- [x] bottom - graphical process/system monitor 
 - [ ] bandwhich - CLI for displaying Network utilization
 - [ ] broot - System File tree
 - [ ] dust - Alternative to du
